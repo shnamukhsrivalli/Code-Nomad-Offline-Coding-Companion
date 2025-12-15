@@ -1,0 +1,5 @@
+{
+  "name": " Code Nomad- Offline Coding Companion",
+  "description": "An offline-first developer assistant for low-connectivity environments. Features offline docs, error explanation, snippet vault, and interview prep.",
+  "requestFramePermissions": []
+}
